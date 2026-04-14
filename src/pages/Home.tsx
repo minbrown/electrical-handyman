@@ -57,7 +57,7 @@ const Hero = () => {
         className="absolute bottom-[-3%] left-[-2%] w-[30%] h-[6%] bg-brand-primary clip-trapezoid z-20 opacity-90 shadow-[0_0_30px_rgba(173,1,41,0.3)] hidden md:block"
       ></motion.div>
 
-      <div className="max-w-7xl mx-auto px-6 relative z-10 w-full text-center md:text-left">
+      <div className="max-w-7xl mx-auto px-6 relative z-10 w-full text-center md:text-left pt-24 md:pt-36">
         <motion.div 
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
