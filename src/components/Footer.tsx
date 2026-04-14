@@ -10,7 +10,7 @@ const Footer = () => (
 
     <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-12 md:gap-16 mb-16 md:mb-24 text-center sm:text-left">
       <div className="space-y-6 md:space-y-8 flex flex-col items-center sm:items-start lg:col-span-2">
-        <span className="text-3xl md:text-4xl font-black tracking-tighter block uppercase">ALLUPH TRADES</span>
+        <img src="/logo.png" alt="Alluph Trades" className="h-12 md:h-16 w-auto object-contain brightness-0 invert opacity-90" />
         <p className="text-gray-400 leading-relaxed text-base md:text-lg max-w-sm mx-auto md:mx-0">
           Licensed & insured electrical and handyman services in Troy, MI. Commercial-grade workmanship on every job.
         </p>
