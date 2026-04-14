@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://electrical-handyman.vercel.app/sitemap.xml
