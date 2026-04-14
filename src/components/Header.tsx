@@ -59,9 +59,9 @@ const Header = () => {
             <button className="text-white hover:text-brand-primary transition-colors">
               <Search size={20} />
             </button>
-            <Link to="/contact" className="bg-brand-primary text-white px-8 py-4 font-bold text-xs uppercase tracking-widest hover:opacity-90 transition-all">
+            <a href="https://api.echovoicelabs.com/widget/form/tQUXk6FOf8D6fdg79jhK?notrack=true" target="_blank" rel="noopener noreferrer" className="bg-brand-primary text-white px-8 py-4 font-bold text-xs uppercase tracking-widest hover:opacity-90 transition-all">
               Free Estimate
-            </Link>
+            </a>
           </div>
         </div>
 
@@ -83,13 +83,13 @@ const Header = () => {
                 {item.name}
               </Link>
             ))}
-            <Link 
-              to="/contact" 
+            <a 
+              href="https://api.echovoicelabs.com/widget/form/tQUXk6FOf8D6fdg79jhK?notrack=true" target="_blank" rel="noopener noreferrer"
               className="bg-brand-primary text-white px-6 py-3 font-bold text-sm uppercase tracking-wider text-center"
               onClick={() => setIsMenuOpen(false)}
             >
               Free Estimate
-            </Link>
+            </a>
           </div>
         </div>
       )}

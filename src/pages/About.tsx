@@ -120,7 +120,7 @@ const About = () => {
               <a href="tel:2483085960" className="bg-brand-dark text-white px-10 py-5 sm:px-12 sm:py-6 font-black text-xs sm:text-sm uppercase tracking-widest hover:bg-black transition-all">
                 Call (248) 308-5960
               </a>
-              <a href="/contact" className="bg-white text-brand-primary px-10 py-5 sm:px-12 sm:py-6 font-black text-xs sm:text-sm uppercase tracking-widest hover:bg-gray-100 transition-all">
+              <a href="https://api.echovoicelabs.com/widget/form/tQUXk6FOf8D6fdg79jhK?notrack=true" target="_blank" rel="noopener noreferrer" className="bg-white text-brand-primary px-10 py-5 sm:px-12 sm:py-6 font-black text-xs sm:text-sm uppercase tracking-widest hover:bg-gray-100 transition-all text-center">
                 Request an Estimate
               </a>
             </div>

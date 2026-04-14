@@ -89,7 +89,7 @@ const Hero = () => {
             Licensed & insured professionals serving Troy, MI and surrounding areas. Full rewires, smart home installs, surveillance, TV mounting, and renovation — all under one roof.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start gap-6">
-            <a href="tel:2483085960" className="group bg-brand-primary text-white px-10 py-5 font-bold text-sm uppercase tracking-widest hover:opacity-90 transition-all flex items-center w-full sm:w-fit justify-center shadow-2xl shadow-brand-primary/40 relative z-30">
+            <a href="https://api.echovoicelabs.com/widget/form/tQUXk6FOf8D6fdg79jhK?notrack=true" target="_blank" rel="noopener noreferrer" className="group bg-brand-primary text-white px-10 py-5 font-bold text-sm uppercase tracking-widest hover:opacity-90 transition-all flex items-center w-full sm:w-fit justify-center shadow-2xl shadow-brand-primary/40 relative z-30">
               REQUEST A FREE ESTIMATE
               <ArrowRight size={20} className="ml-3 group-hover:translate-x-1 transition-transform" />
             </a>
@@ -116,7 +116,7 @@ const AboutSection = () => (
             className="rounded-sm w-full relative z-10 aspect-[4/5] object-cover object-top shadow-xl"
           />
           <div className="absolute -bottom-6 -left-6 bg-brand-primary p-6 text-white z-20 hidden md:block">
-            <a href="#contact" className="bg-white text-brand-primary px-8 py-4 font-bold text-xs uppercase tracking-widest hover:bg-gray-100 transition-colors inline-block text-center min-w-[200px]">
+            <a href="https://api.echovoicelabs.com/widget/form/tQUXk6FOf8D6fdg79jhK?notrack=true" target="_blank" rel="noopener noreferrer" className="bg-white text-brand-primary px-8 py-4 font-bold text-xs uppercase tracking-widest hover:bg-gray-100 transition-colors inline-block text-center min-w-[200px]">
               GET A QUOTE
             </a>
           </div>
@@ -144,7 +144,7 @@ const AboutSection = () => (
             ))}
           </ul>
           <div className="lg:hidden mt-8">
-            <a href="#contact" className="bg-brand-primary text-white px-10 py-5 font-bold text-sm uppercase tracking-widest hover:opacity-90 transition-all inline-block w-full text-center shadow-xl">
+            <a href="https://api.echovoicelabs.com/widget/form/tQUXk6FOf8D6fdg79jhK?notrack=true" target="_blank" rel="noopener noreferrer" className="bg-brand-primary text-white px-10 py-5 font-bold text-sm uppercase tracking-widest hover:opacity-90 transition-all inline-block w-full text-center shadow-xl">
               GET A FREE QUOTE
             </a>
           </div>

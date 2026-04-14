@@ -58,9 +58,9 @@ const LocationPage = () => {
               <Phone size={20} className="mr-3 group-hover:animate-pulse" />
               Call (248) 308-5960
             </a>
-            <Link to="/contact" className="border border-white/20 backdrop-blur-sm text-white px-10 py-5 font-bold text-sm uppercase tracking-widest hover:bg-white/10 transition-all flex items-center w-full sm:w-fit justify-center">
+            <a href="https://api.echovoicelabs.com/widget/form/tQUXk6FOf8D6fdg79jhK?notrack=true" target="_blank" rel="noopener noreferrer" className="border border-white/20 backdrop-blur-sm text-white px-10 py-5 font-bold text-sm uppercase tracking-widest hover:bg-white/10 transition-all flex items-center w-full sm:w-fit justify-center text-center">
               Request Free Estimate
-            </Link>
+            </a>
           </div>
         </div>
       </section>
